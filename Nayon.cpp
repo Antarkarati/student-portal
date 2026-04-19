@@ -4,4 +4,6 @@ int main()
 {
     cout<<"Hare Krishna\n";
     cout<<"Hare Krishna\n";
+    cout<<"Hare Krishna HK\n";
+    cout<<"Hare Krishna HK\n";
 }
